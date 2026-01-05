@@ -1,3 +1,5 @@
+package january;
+
 public class day_2_java_dsa {
     public static void main(String[] args) {
 
