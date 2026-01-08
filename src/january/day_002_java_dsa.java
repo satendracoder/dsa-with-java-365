@@ -1,6 +1,6 @@
 package january;
 
-public class day_2_java_dsa {
+public class day_002_java_dsa {
     public static void main(String[] args) {
 
         int number = 12;

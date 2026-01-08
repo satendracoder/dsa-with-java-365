@@ -1,6 +1,6 @@
 package january;
 
-public class Day04_PalindromeNumber {
+public class Day_004_java_dsa {
     public static void main(String[] args) {
         int number = 121;
         int original = number;
